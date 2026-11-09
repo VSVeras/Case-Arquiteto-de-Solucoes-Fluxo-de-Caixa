@@ -715,9 +715,9 @@ Resultados registrados:
 
 | Solução | Cobertura de linhas | Cobertura de ramificações |
 |---|---:|---:|
-| BuildingBlocks | 34,2% | 44,8% |
-| FluxoDeCaixa | 87,0% | 57,4% |
-| RelatorioFluxoDeCaixa | 74,1% | 46,2% |
+| BuildingBlocks | 32,7% | 43,7% |
+| FluxoDeCaixa | 86,2% | 56,8% |
+| RelatorioFluxoDeCaixa | 72,7% | 44,0% |
 
 A cobertura de BuildingBlocks apresenta oportunidade de ampliação.
 
